@@ -1,0 +1,17 @@
+{
+  "name": "example-server",
+  "version": "1.0.0",
+  "author": "Fabien JUIF <fabien.juif@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "main": "./api.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "dependencies": {
+    "@koa/cors": "2",
+    "koa": "^2.5.3",
+    "koa-body": "^4.0.4",
+    "koa-router": "^7.4.0"
+  }
+}
