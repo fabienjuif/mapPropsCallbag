@@ -1,16 +1,22 @@
 {
   "name": "map-props-callbag",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "private": false,
   "license": "MIT",
   "author": "Fabien JUIF <fabien.juif@gmail.com>",
   "main": "./mapPropsCallbag.js",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/fabienjuif/mapPropsCallbag.git"
+  },
   "keywords": [
     "callbag",
     "react",
     "react-js",
     "map",
-    "recompose"
+    "recompose",
+    "map-props-callbag",
+    "mapPropsCallbag"
   ],
   "dependencies": {
     "callbag-basics": "^3.0.0",
